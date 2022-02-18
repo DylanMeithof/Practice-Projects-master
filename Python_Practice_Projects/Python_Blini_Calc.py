@@ -21,4 +21,4 @@ print("Cups of Milk: " + str(milkCups))
 print("Cups of Butter: " + str(butterCups))
 print("Tablespoonds of Vegetable Oil: " + str(tablespoonVegetableOil))
 print("Teaspoons of Citric Acid Powder: " + str(teaspoonCitricAcidPowder))
-space = input("")-
+space = input("")
